@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\taigi_poj.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_f009a3beb5a55eb4e94bff9f1f0c1b5b</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\taigi_poj.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|14|   |0</CodeFont>
+        <CharFont>Consolas|14|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_7d8eee0da6e5521a5336dd89fd55b2f7</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\taigi_poj.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e8fe6eb59b5fbc0b836cf83b3e0f18b1</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\taigi_poj.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3764a4c32915bf460f70aaf73f0a8605</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\taigi_poj.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9e9656cf9f14cdc01acc2aa385230fd6</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\..\build\taigi_poj.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_94147732357616a6b079ce10fa70b15a</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\..\build\taigi_poj.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b1451e03c3eb823d1a2c0a4c78d9dccf</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\..\build\taigi_poj.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>taigi_poj.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\GoogleDrive\He-bi-KeymanDev\taigi_poj\taigi_poj\source\taigi_poj.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
