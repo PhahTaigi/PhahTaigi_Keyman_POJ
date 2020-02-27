@@ -16,7 +16,7 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Taigi POJ</Name>
+    <Name URL="">PhahTaigi POJ Keyman Keyboard</Name>
     <Copyright URL="">© Ngô͘  Ka-bêng</Copyright>
     <Author URL="">Ngô͘  Ka-bêng</Author>
     <Version URL=""></Version>
@@ -59,7 +59,7 @@
       <ID>taigi_poj</ID>
       <Version>1.0</Version>
       <Languages>
-        <Language ID="nan-Latn-TW">Min Nan Chinese</Language>
+        <Language ID="nan-Latn-TW">Tâi-gí</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

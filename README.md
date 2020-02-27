@@ -1,4 +1,4 @@
-Taigi POJ keyboard
+PhahTaigi POJ Keyman Keyboard
 ==============
 
 © Ngô͘ Ka-bêng
@@ -8,7 +8,7 @@ Version 1.0
 Description
 -----------
 
-Taigi POJ generated from template
+PhahTaigi POJ Keyman Keyboard for Tâi-gí (Taiwanese).
 
 Links
 -----
