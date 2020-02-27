@@ -12,6 +12,7 @@ PhahTaigi POJ Keyman Keyboard for Tâi-gí (Taiwanese).
 
 Links
 -----
+* Open Source: [https://github.com/PhahTaigi/PhahTaigi_POJ_Keyman_Keyboard](https://github.com/PhahTaigi/PhahTaigi_POJ_Keyman_Keyboard) 
 
 Supported Platforms
 -------------------
